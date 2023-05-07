@@ -1,0 +1,11 @@
+.estante{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    border: 3px solid black;
+}
+
+.rows {
+    display: flex;
+    flex-direction:row;
+}
